@@ -333,5 +333,10 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  }, 
+  {
+    "title": "git init",
+    "description": "This command turns a directory into an empty Git repository. After running git init, adding and committing files/directories is possible."
   }
+
 ]
